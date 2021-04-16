@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "121732931283",
+    "project_id": "cinema-booking-app-5a440",
+    "storage_bucket": "cinema-booking-app-5a440.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121732931283:android:423641b3b9908cc1f93e26",
+        "android_client_info": {
+          "package_name": "com.example.ecproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121732931283-oricdec6c2m2j3e4egie013istmo5p92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAql381uce1vM6AnRZcl_dXd9WykN7htGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121732931283-oricdec6c2m2j3e4egie013istmo5p92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121732931283:android:bc2633746de40104f93e26",
+        "android_client_info": {
+          "package_name": "com.example.vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121732931283-oricdec6c2m2j3e4egie013istmo5p92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAql381uce1vM6AnRZcl_dXd9WykN7htGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121732931283-oricdec6c2m2j3e4egie013istmo5p92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
